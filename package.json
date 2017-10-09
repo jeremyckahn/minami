@@ -1,5 +1,5 @@
 {
-  "name": "minami",
+  "name": "@jeremyckahn/minami",
   "version": "1.2.3",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nijikokun/minami.git"
+    "url": "https://github.com/jeremyckahn/minami.git"
   },
   "author": "Nijiko Yonskai <nijikokun@gmail.com>",
   "licenses": [
@@ -18,9 +18,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Nijikokun/minami/issues"
+    "url": "https://github.com/jeremyckahn/minami/issues"
   },
-  "homepage": "https://github.com/Nijikokun/minami",
+  "homepage": "https://github.com/jeremyckahn/minami",
   "peerDependencies": {
     "jsdoc": "^3.5.5"
   }
