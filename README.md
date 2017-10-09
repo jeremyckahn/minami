@@ -81,6 +81,14 @@ In your `.jsdoc.json` file, add a template option.
 
 Specifying a number for useLongnameInNav it will be the max number of path elements to show in nav (starting from Class).
 
+## Developing
+
+To make changes to Minami, you will need to install JSDoc manually (as it is a [peerDependency](https://nodejs.org/en/blog/npm/peer-dependencies/)):
+
+```
+npm install --no-save jsdoc
+```
+
 
 ## License
 
